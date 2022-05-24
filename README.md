@@ -8,9 +8,17 @@
   
   ##
   
+
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/216762282569498624" />
+</div>
+  
 <div>
    <a href="[https://github.com/SrHell](https://discord.gg/XGsnWHqwtH)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/SrHell/SrHell/blob/output/github-contribution-grid-snake.svg)
   
 </div> 
+
+  
+  
