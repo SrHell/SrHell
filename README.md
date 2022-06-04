@@ -11,14 +11,11 @@
   
 
 <div align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/216762282569498624)](https://discord.com/users/216762282569498624)
+[![Discord Presence](https://lanyard.cnrad.dev/api/216762282569498624)](https://discord.com/users/216762282569498624)
 </div>
   
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/216762282569498624.png">
   
  ![Snake animation](https://github.com/SrHell/SrHell/blob/output/github-contribution-grid-snake.svg)
   
 </div> 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/216762282569498624)](https://discord.com/users/216762282569498624)
