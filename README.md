@@ -7,12 +7,14 @@
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SrHell&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
   
-  ##
-  
+##
 
-<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/216762282569498624)](https://discord.com/users/216762282569498624)
-</div>
+
+<p align="center">
+  <a href="https://www.twitch.tv/IamSrHell" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/W5zVMcSpkk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</p>  
   
 <div align="center">
   
